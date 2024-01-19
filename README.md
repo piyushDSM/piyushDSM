@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/piyushdsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyushdsm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/piyush-chaubey-%f0%9f%87%ae%f0%9f%87%b3-1aa9531b5?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjwm%2bhan1siwpgqblmrdbpa%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyush-chaubey-%F0%9F%87%AE%F0%9F%87%B3-1aa9531b5/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/piyush-chaubey-%f0%9f%87%ae%f0%9f%87%b3-1aa9531b5?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjwm%2bhan1siwpgqblmrdbpa%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyush-chaubey-🇮🇳-1aa9531b5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
