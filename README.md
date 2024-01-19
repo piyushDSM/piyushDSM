@@ -11,9 +11,9 @@
   />
 </p>
 
-- 👨‍💻 I love exploring and working in frontend development - 🏢 I've previously
-worked as a Software Associate at **Capgemini** - 📫 How to reach me
-**piyushchaubeydsm@gmail.com**
+- 👨‍💻 I love exploring and working in frontend development 
+- 🏢 I've previously worked as a Software Associate at **Capgemini** 
+- 📫 How to reach me **piyushchaubeydsm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
