@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush Chaubey</h1>
+<h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Piyush Chaubey</h1>
 <h3 align="center">
   As a Software Engineer, I'm passionate about implementing and launching new
   projects. Ability to translate business requirements into technical solutions.
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/piyushdsm" target="blank"
+  <a href="https://twitter.com/piyushdsm" title="Twitter" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -30,6 +30,7 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="https://www.linkedin.com/in/piyush-chaubey-🇮🇳-1aa9531b5"
+      title="LinkedIn"
       height="30"
       width="40"
   /></a>
@@ -40,6 +41,7 @@
   <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      title="C++"
       alt="cplusplus"
       width="40"
       height="40"
@@ -48,6 +50,7 @@
   <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      title="HTML5"
       alt="html5"
       width="40"
       height="40"
@@ -56,6 +59,7 @@
   <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      title="CSS"
       alt="css3"
       width="40"
       height="40"
@@ -65,6 +69,7 @@
   <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      title="JavaScript"
       alt="javascript"
       width="40"
       height="40"
@@ -74,6 +79,7 @@
   <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      title="React"
       alt="react"
       width="40"
       height="40"
@@ -83,6 +89,7 @@
   <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      title="MySQL"
       alt="mysql"
       width="40"
       height="40"
@@ -92,6 +99,7 @@
   <a>
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      title="Git"
       alt="git"
       width="40"
       height="40"
@@ -101,6 +109,7 @@
   <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      title="UNIX"
       alt="linux"
       width="40"
       height="40"
