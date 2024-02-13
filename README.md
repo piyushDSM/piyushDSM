@@ -50,7 +50,7 @@
   <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      title="HTML5"
+      title="HTML"
       alt="html5"
       width="40"
       height="40"
