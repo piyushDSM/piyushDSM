@@ -17,7 +17,7 @@
 
 <h3 align="left">Coding Profile:</h3>
 <p align="left">
-  <a href="https://leetcode.com/u/_its_piyush/" target="blank" title="Leetcode">
+  <a href="https://leetcode.com/u/_its_piyush/" target="blank" title="Leetcode" style="text-decoration: none;">
     <img 
     width="38" 
     height="38" 
