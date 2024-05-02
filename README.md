@@ -21,13 +21,13 @@
     <img 
     width="38" 
     height="38" 
-    src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode"/>
+    src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="https://leetcode.com/u/_its_piyush/"/>
 </a>
   <a href="https://www.naukri.com/code360/profile/piyushdsm" target="blank" title="Coding Ninjas"> 
     <img 
     width="40"
      height="40" 
-     src="https://img.icons8.com/fluency/48/ninja-head.png" alt="ninjahead"/>
+     src="https://img.icons8.com/fluency/48/ninja-head.png" alt="https://www.naukri.com/code360/profile/piyushdsm"/>
 </a>
 </p>
 
