@@ -15,6 +15,22 @@
 - 🏢 I've previously worked as a Software Associate at **Capgemini**
 - 📫 How to reach me - **piyushchaubeydsm@gmail.com**
 
+<h3 align="left">Coding Profile:</h3>
+<p align="left">
+  <a href="https://leetcode.com/u/_its_piyush/" target="blank" title="Leetcode">
+    <img 
+    width="38" 
+    height="38" 
+    src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode"/>
+</a>
+  <a href="https://www.naukri.com/code360/profile/piyushdsm" target="blank" title="Coding Ninjas"> 
+    <img 
+    width="40"
+     height="40" 
+     src="https://img.icons8.com/fluency/48/ninja-head.png" alt="ninjahead"/>
+</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/piyushdsm" title="Twitter" target="blank"
