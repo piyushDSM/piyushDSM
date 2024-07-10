@@ -1,7 +1,7 @@
 <h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Piyush Chaubey</h1>
 <h3 align="center">
   As a Software Engineer, passionate about implementing and launching new
-  projects. Ability to translate business requirements into technical solutions.
+  projects. Ability to translate business requirements into technical solutions through web development.
 </h3>
 
 <p align="center">
