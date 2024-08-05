@@ -16,7 +16,7 @@
 - 🏢 I've previously worked as a Software Associate at **Capgemini**
 
 - 📫 How to reach me - **piyushchaubeydsm@gmail.com**
-- 📄 Checkout my [RESUME](https://drive.google.com/file/d/1Sv3WRbzX3qRWkcDkVBt0WSf2H8kZPrm_/view?usp=sharing)
+- 📄 Checkout my [RESUME](https://drive.google.com/file/d/1Z8facEm1TaIzWzHa-Vn5L2bdbxcDuich/view?usp=sharing)
   
 <h3 align="left">Coding Profile:</h3>
 <p align="left">
