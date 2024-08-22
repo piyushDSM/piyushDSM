@@ -1,6 +1,6 @@
 <h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Piyush Chaubey</h1>
 <h3 align="center">
-  As a Software Engineer, passionate about implementing and launching new
+  As a Software Engineer, I am passionate about implementing and launching new
   projects. Ability to translate business requirements into technical solutions through web development.
 </h3>
 
@@ -16,7 +16,7 @@
 - 🏢 I've previously worked as a Software Associate at **Capgemini**
 
 - 📫 How to reach me - **piyushchaubeydsm@gmail.com**
-- 📄 Checkout my [RESUME](https://drive.google.com/file/d/1Z8facEm1TaIzWzHa-Vn5L2bdbxcDuich/view?usp=sharing)
+- 📄 Checkout my [RESUME](https://drive.google.com/file/d/1KyclglXRrJN-o6Rybby9pOFWVDvS1Sf4/view?usp=sharing)
   
 <h3 align="left">Coding Profile:</h3>
 <p align="left">
